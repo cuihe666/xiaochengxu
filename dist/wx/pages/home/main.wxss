@@ -1,0 +1,50 @@
+@import "../../common/vendor.wxss";
+
+.userinfo.data-v-52a40d54 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.userinfo-avatar.data-v-52a40d54 {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+.userinfo-nickname.data-v-52a40d54 {
+  color: #aaa;
+}
+.usermotto.data-v-52a40d54 {
+  margin-top: 300rpx;
+}
+.form-control.data-v-52a40d54 {
+  display: block;
+  padding: 0 24rpx;
+  margin-bottom: 10rpx;
+  border: 2rpx solid #ccc;
+}
+.all.data-v-52a40d54 {
+  width: 750rpx;
+  height: 100rpx;
+  background-color: blue;
+}
+.all.data-v-52a40d54:after {
+  display: block;
+  content: '';
+  clear: both;
+}
+.left.data-v-52a40d54 {
+  float: left;
+  width: 300rpx;
+  height: 100rpx;
+  background-color: red;
+}
+.right.data-v-52a40d54 {
+  float: left;
+  width: 450rpx;
+  height: 100rpx;
+  background-color: green;
+}
+.images.data-v-52a40d54 {
+  width: 828rpx;
+}
